@@ -32,7 +32,7 @@ Manual QA testing portfolio: test cases, checklist, and exploratory report for d
 - [Тест-кейсы](test-cases/test-cases.md) — структурированные сценарии с приоритетами  
 - [Чек-лист](checklist/checklist.md) — краткое руководство для быстрой проверки
 - [Postman Collection](postman/jsonplaceholder-api-tests.postman_collection.json) — API-тесты для jsonplaceholder.typicode.com   📖 [Инструкция по запуску](postman/README.md) 
-- Отчёт об исследовательском тестировании (скоро)  
+- [Отчёт по исследовательскому тестированию](exploratory-report/text-box-exploratory-report.md) 
 - ## 📸 Скриншоты
 
 ![Text Box Result](screenshots/text-box-result.png)
