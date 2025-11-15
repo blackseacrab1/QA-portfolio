@@ -32,7 +32,16 @@ Manual QA testing portfolio: test cases, checklist, and exploratory report for d
 - [Тест-кейсы](test-cases/test-cases.md) — структурированные сценарии с приоритетами  
 - [Чек-лист](checklist/checklist.md) — краткое руководство для быстрой проверки  
 - Отчёт об исследовательском тестировании (скоро)  
-- Скриншоты ключевых сценариев
+- ## 📸 Скриншоты
+
+![Text Box Result](screenshots/text-box-result.png)
+*Результат отправки формы Text Box*
+
+![Check Box Selected](screenshots/checkbox-selected.png)
+*Выбор нескольких элементов в Check Box*
+
+![Radio Button Selected](screenshots/radio-button-yes.png)
+*Выбор опции в Radio Button*
 
 ---
 
