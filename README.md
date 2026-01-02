@@ -27,7 +27,7 @@
 
 1. Ручное тестирование + API в Postman  
    Артефакты по demoqa.com и jsonplaceholder  
-   → https://github.com/blackseacrab1/qa-portfolio-demoqa (скоро переименую в qa-portfolio)
+   → https://github.com/blackseacrab1/qa-portfolio-demoqa 
 
 2. Автоматизация UI и API на Python  
    Selenium + Requests + Pytest, Page Object  
