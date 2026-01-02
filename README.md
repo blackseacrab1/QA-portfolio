@@ -15,7 +15,9 @@
 - Ручное тестирование — функциональное, exploratory, smoke, regression, тест-дизайн (эквивалентность, границы, pairwise, state-transition)  
 - Автоматизация — Python (Selenium WebDriver, Pytest, Requests), Page Object Model, базово JavaScript  
 - API-тестирование — Postman (коллекции, переменные, JS-тесты) + автоматизация через Requests (статусы, JSON-схемы, авторизация)  
-- Работа с базами данных — SQL-запросы, PostgreSQL (SELECT, JOIN, WHERE, GROUP BY, подзапросы, простые агрегаты)  
+- Базы данных —  
+  • Язык запросов SQL (SELECT, JOIN, WHERE, GROUP BY, агрегаты, подзапросы)  
+  • СУБД PostgreSQL (подключение и базовые операции в терминале psql)  
 - Окружение — Linux Ubuntu + Bash (навигация, управление файлами, права, просмотр логов, установка пакетов)  
 - Версионный контроль — Git/GitHub (ветки, PR, rebase)  
 - Вёрстка — HTML5/CSS3/JS, адаптивные макеты без фреймворков  
