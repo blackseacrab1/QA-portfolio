@@ -36,7 +36,7 @@
    → https://github.com/blackseacrab1/auto-tests
 
 3. Общее портфолио и дополнительные примеры  
-   Сводка навыков, SQL-примеры, другие артефакты  
+   Сводка навыков, другие артефакты  
    → https://github.com/blackseacrab1/QA-portfolio
 
 4. Адаптивные сайты (HTML/CSS/JS)  
