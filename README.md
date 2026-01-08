@@ -40,8 +40,7 @@
    → https://github.com/blackseacrab1/web-mockups  
    Демо: https://blackseacrab1.github.io/web-mockups/
 
-### Развитие
-Сейчас изучаю CI/CD и Jenkins. Цель — расти до Middle QA с сильной автоматизацией и умением покрывать backend.
+
 
 > Качество — это когда пользователь не замечает твою работу.
 
